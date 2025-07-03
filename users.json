@@ -1,0 +1,28 @@
+{
+  "7069742633": {
+    "phone": "998910089911",
+    "lang": "uz",
+    "registered": "2025-07-02",
+    "bookmakers": {
+      "melbet": "736910981",
+      "1xbet": "123456789"
+    }
+  },
+  "7123238008": {
+    "phone": "998901496006",
+    "lang": "uz",
+    "registered": "2025-07-03",
+    "bookmakers": {
+      "melbet": "1234567",
+      "1xbet": "7654321"
+    }
+  },
+  "5507326751": {
+    "phone": "unknown",
+    "lang": "uz",
+    "registered": "2025-07-03",
+    "bookmakers": {
+      "melbet": "7474747487"
+    }
+  }
+}

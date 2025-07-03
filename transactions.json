@@ -1,0 +1,64 @@
+{
+  "transactions": [
+    {
+      "type": "popolnenie",
+      "amount": 50000,
+      "date": "2025-07-03"
+    },
+    {
+      "type": "popolnenie",
+      "amount": 50000,
+      "date": "2025-07-03"
+    },
+    {
+      "type": "popolnenie",
+      "amount": 100000,
+      "date": "2025-07-03"
+    },
+    {
+      "type": "popolnenie",
+      "amount": 250000,
+      "date": "2025-07-03"
+    },
+    {
+      "type": "popolnenie",
+      "amount": 100000,
+      "date": "2025-07-03"
+    },
+    {
+      "type": "popolnenie",
+      "amount": 50000,
+      "date": "2025-07-03"
+    },
+    {
+      "type": "popolnenie",
+      "amount": 500000,
+      "date": "2025-07-03"
+    },
+    {
+      "type": "popolnenie",
+      "amount": 50000,
+      "date": "2025-07-03"
+    },
+    {
+      "type": "popolnenie",
+      "amount": 50000,
+      "date": "2025-07-03"
+    },
+    {
+      "type": "popolnenie",
+      "amount": 100000,
+      "date": "2025-07-03"
+    },
+    {
+      "type": "popolnenie",
+      "amount": 100000,
+      "date": "2025-07-03"
+    },
+    {
+      "type": "popolnenie",
+      "amount": 500000,
+      "date": "2025-07-03"
+    }
+  ]
+}
